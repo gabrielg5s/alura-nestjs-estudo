@@ -1,2 +1,2 @@
 # estudo-nestjs
-CRUD basico com nest js
+Aplicação feita baseada no curso da alura de <i>NestJS: criando uma API Rest com TypeScript</i>, implementando um CRUD em nest.js com a utilização de mysql 
